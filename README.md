@@ -1,5 +1,13 @@
-# AI Programming with Python Project
+# Image classsifier PyTorch
 
-We build a command line project can train on vgg16 and densenet121 with PyTorch.
+You can train your custom images using the **train.py**
+
+# Usage
+
+
+
+`'pip install requirements.txt'`
+`'python train.py '`
+`'python predict --image_path image_path'`
 
 
